@@ -1,12 +1,10 @@
 {
-  "name": "[internal-mod-name]",
-  "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "name": "rebuild-crash-site",
+  "version": "1.0.1",
   "factorio_version": "1.1",
-  "dependencies": [
-    "base"
-  ]
+  "title": "Rebuild Crash Site",
+  "author": "notnotmelon",
+  "homepage": "https://github.com/notnotmelon/rebuild-crash-site",
+  "description": "Prevents you from losing your crash site.",
+  "dependencies": ["base"]
 }
